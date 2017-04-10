@@ -1,2 +1,2 @@
-# SearchTool
-A simple chrome extension that let's you search for the selected text in UrbanDictionary.
+# Imgur Album Quck Link
+A quick album viewer that opens in new incognito window
