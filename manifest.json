@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Imager Album Quick Link",
+  "name": "Imgur Album Quick Link",
   "short_name": "Search",
   "description": "Quickly load Imgur Album in a new incognito window",
   "version": "0.0.1",
