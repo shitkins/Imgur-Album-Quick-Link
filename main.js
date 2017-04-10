@@ -7,5 +7,9 @@ viewImgurAlbum = function(word){
 chrome.contextMenus.create({
   title: "View Imgur Albums!",
   contexts:["selection"],
-  onclick: viewImgurAlbum
+  onclick: viewImgurAlbum,
+  documentUrlPatterns: [
+    "*://imgur.com/*",
+    "*://*.imgur.com/*"
+  ]
 });
